@@ -1,0 +1,10 @@
+diff --git a/project/plugins.sbt b/project/plugins.sbt
+index 6baf83c..cd2bc5c 100644
+--- a/project/plugins.sbt
++++ b/project/plugins.sbt
+@@ -21,3 +21,5 @@ addSbtPlugin("com.simplytyped" % "sbt-antlr4" % "0.8.1")
+ addSbtPlugin("com.github.gseitz" % "sbt-protobuf" % "0.6.3")
+ 
+ libraryDependencies += "com.github.os72" % "protoc-jar" % "3.5.1.1"
++
++addSbtPlugin("ch.epfl.scala" % "sbt-bloop" % "1.2.5")
