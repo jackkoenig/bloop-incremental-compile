@@ -1,0 +1,5 @@
+*.swp
+bloop-*/
+coursier
+firrtl/
+ivycache/
