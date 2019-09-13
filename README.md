@@ -2,6 +2,10 @@
 
 Test case for using bloop without the server via bloop.Cli main
 
+### Requirements
+
+This repo requires [jq](https://stedolan.github.io/jq/), git, java8, wget, and bash.
+
 ### Use
 
 ```
